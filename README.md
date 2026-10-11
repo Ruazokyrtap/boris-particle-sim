@@ -3,7 +3,7 @@
 A small simulation of how charged particles move in magnetic fields, using the
 **Boris pusher**, the standard integrator in plasma physics codes.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR-USERNAME/boris-particle-sim/HEAD?urlpath=voila%2Frender%2Fsliders.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ruazokyrtap/boris-particle-sim/HEAD?urlpath=voila%2Frender%2Fsliders.ipynb)
 ← click to open the interactive version in your browser (nothing to install; first load takes a minute or two)
 
 ## What it shows
