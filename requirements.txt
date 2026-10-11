@@ -2,3 +2,5 @@ numpy
 matplotlib
 ipywidgets
 voila
+plotly
+nbformat
